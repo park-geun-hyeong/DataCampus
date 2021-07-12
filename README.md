@@ -15,3 +15,6 @@
 <p><b>4. Selenium & n_gram</b><br>
 - Selenium의 코드를 통해 웹페이지를 탐색하는법과, 텍스트 데이터 전처리 중 토크나이저 기법인 n_gram </p>
 
+<h2> 3-Week </h2>
+<p><b>1. Pandas </b><br>
+- Pandas library를 사용하여 정형데이터를 다루는법(구조적 변화, 값 변화)</p>
