@@ -18,3 +18,5 @@
 <h2> 3-Week </h2>
 <p><b>1. Pandas </b><br>
 - Pandas library를 사용하여 정형데이터를 다루는법(구조적 변화, 값 변화)</p>
+<p><b>2. nltk&konlpy </b><br>
+- nltk와 konlpy를 사용하여 text data들을 토큰화 하는 법(Korean, English)</p>
