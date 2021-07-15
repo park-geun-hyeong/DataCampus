@@ -13,7 +13,7 @@
 - Crawler & 특정 태그를 탐색하는 Scraper를 만들어 자동으로 데이터를 수집하는 법 </p>
 
 <p><b>4. Selenium & n_gram</b><br>
-- Selenium의 코드를 통해 웹페이지를 탐색하는법과, 텍스트 데이터 전처리 중 토크나이저 기법인 n_gram </p>
+- Selenium의 코드를 통해 웹페이지를 탐색하는법과, Language model중 하나인 n_gram </p>
 
 <h2> 3-Week </h2>
 <p><b>1. Pandas </b><br>
