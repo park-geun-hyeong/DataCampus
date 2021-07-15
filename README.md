@@ -20,3 +20,6 @@
 - Pandas library를 사용하여 정형데이터를 다루는법(구조적 변화, 값 변화)</p>
 <p><b>2. nltk&konlpy </b><br>
 - nltk와 konlpy를 사용하여 text data들을 토큰화 하는 법(Korean, English)</p>
+<p><b>3. Audio_Data </b><br>
+- google API와 Librosa library를 사용하여 audio data를 다루는 법</p>
+
