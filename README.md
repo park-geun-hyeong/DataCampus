@@ -23,3 +23,6 @@
 <p><b>3. Audio_Data </b><br>
 - google API와 Librosa library를 사용하여 audio data를 다루는 법</p>
 
+<h2> 4-Week </h2>
+<p><b>1. EDA&Split_Data </b><br>
+- Pandas 와 sckit-learn을 사용하여 정형데이터를 EDA하고, split, cross_validation 하는 법</p>
