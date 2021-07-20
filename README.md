@@ -26,3 +26,6 @@
 <h2> 4-Week </h2>
 <p><b>1. EDA&Split_Data </b><br>
 - Pandas 와 sckit-learn을 사용하여 정형데이터를 EDA하고, split, cross_validation 하는 법</p>
+<p><b>2. Pipeline&HyperParameter_Tuning </b><br>
+- sckit-learn을 사용하여 pipeline을 구성하고, GridSearchCV를 사용하여 HyperParameter tuning 하는 법</p>
+
